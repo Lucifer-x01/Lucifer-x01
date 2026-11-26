@@ -1,6 +1,6 @@
-# Lucifer-x1
-My Cybersecurity Portfolio
+# Vishal Parmar
 
+Welcome to my GitHub profile!
 
 # Hi, I'm Vishal Parmar 👋
 
